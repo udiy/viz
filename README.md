@@ -1,1 +1,1 @@
-In this repo you'll find ipython notebooks.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/udiy/viz/master)
